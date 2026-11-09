@@ -17,7 +17,7 @@
 
 <br/>
 
-## 🔷 About
+##  About
 
 **Building production web platforms where frontend precision meets backend scalability.**
 
@@ -34,7 +34,7 @@ const oleh = {
 
 <br/>
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -75,7 +75,7 @@ const oleh = {
 
 <br/>
 
-## 🚀 Highlights
+##  Highlights
 
 <table>
   <tr>
@@ -102,7 +102,7 @@ const oleh = {
 
 <br/>
 
-## 🔭 Currently Exploring
+##  Currently Exploring
 
 <div align="center">
 
@@ -115,7 +115,7 @@ const oleh = {
 
 <br/>
 
-## 📬 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
