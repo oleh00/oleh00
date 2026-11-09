@@ -28,7 +28,7 @@ const oleh = {
   role: "Senior Full-Stack Engineer",
   experience: "6+ years",
   focus: ["SaaS platforms", "API design", "AI agents", "performance"],
-  languages: ["English", "Ukrainian", "Polish"],
+  languages: ["English", "Ukrainian"],
 };
 ```
 
